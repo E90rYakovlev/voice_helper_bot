@@ -1,6 +1,6 @@
-TOKEN = "7104102860:AAFGwGgm0KjX3dsUslg7XPg6FWX8Q3eD6BM"  # token телеграм-бота
-IAM_TOKEN = "t1.9euelZqRkcyRipmOy8-Ylo3Ix8ycme3rnpWakM6VnMmVicuUycuKz5HLzZHl8_d4LHxN-e95dXhi_d3z9zhbeU3573l1eGL9zef1656VmpHNyYqaxsrPzp3OiZLGyJzN7_zF656VmpHNyYqaxsrPzp3OiZLGyJzNveuelZqbks2YkM6bkJmOyZ2KjZTIirXehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.RF2lb0O_pr_cIXbtYqJ1i2-zd8YVw_N8nt1m7LBymrabJVbIWDYMr6NO4L1ldsqxpRzLqln4Yh1ehFnlYIDECQ"
-FOLDER_ID = "b1gn21mn067kri1haq1j"
+TOKEN = ""  # token телеграм-бота
+IAM_TOKEN = ""
+FOLDER_ID = ""
 
 MAX_USERS = 3  # максимальное кол-во пользователей
 MAX_GPT_TOKENS = 120  # максимальное кол-во токенов в ответе GPT
